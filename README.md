@@ -1,4 +1,6 @@
-# LinkOS Registry Mirrors
+
+# 拷贝一份作为备份
+### 源地址：https://github.com/OpenLinkOS/registry-mirrors
 LinkOS 公益运营的镜像仓库加速服务。
 
 
